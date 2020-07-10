@@ -1,0 +1,29 @@
+h1
+{
+	color:#F8F8FF;
+	font-family:broadway,elephant,arial;
+	text-transform:uppercase;
+	text-align:center;
+	background-color:#4682b4;
+}
+h4
+{
+	font-family:comic sans ms;
+}
+h2
+{
+	color:#F8F8FF;
+	font-family:elephant;
+	background-color:#4682b4;
+}
+h3
+{
+	color:#00bfff;
+	font-family:comic sans ms;
+}
+a
+{
+	color:#DC143C;
+	font-family:elephant;
+	background-color:#F8F8FF;
+}
